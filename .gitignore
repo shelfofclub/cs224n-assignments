@@ -1,0 +1,14 @@
+.cs224n/
+.Pipfile
+.Pipfile.lock
+tensorflow_tutorials/
+.vscode/
+**/*.pyc
+assignment1/saved_params_*.npy
+assignment2/data/weights/*
+assignment2/q2_test.predicted.pkl
+assignment2/result[12].txt
+**/__pycache__
+assignment3/results/*
+assignment2/data/en-cw.txt
+assignment1/utils/datasets/glove.6B.50d.txt
